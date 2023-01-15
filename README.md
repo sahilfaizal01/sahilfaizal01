@@ -1,8 +1,8 @@
 ### Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👋 I’m @Sahil Faizal, a final-year undergraduate student pursuing BTech Computer Science with Specialization in Cyber Physical Systems at VIT, Chennai
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning GUI Development and Natural Language Processing(NLP)
+- 👋 I’m @Sahil Faizal, a final-year undergraduate student pursuing BTech Computer Science at VIT, Chennai
+- 👀 I’m interested in Artificial Intelligence and Computer Vision
+- 🌱 I’m currently learning Data Science and Natural Language Processing(NLP)
 - 💞️ I’m looking to collaborate on Deep Learning and Computer Vision Projects
 - 📫 How to reach me sahilfaizal0704@gmail.com
 
