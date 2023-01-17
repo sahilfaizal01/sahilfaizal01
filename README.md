@@ -15,13 +15,13 @@
 
 - 📝 You can find my portfolio site at [https://sahilai.engineer/](https://sahilai.engineer/)
 
-- 💬 Ask me about **Data Science, Machine Learning, CNNs and ANNs**
+- 💬 Ask me about **Data Science, Artificial Intelligence and Computer Vision**
 
 - 📫 How to reach me **sahilfaizal0704@gmail**
 
 - 📄 Know about my experiences [shorturl.at/puOT9](shorturl.at/puOT9)
 
-- ⚡ Fun fact **I am born on "World Health Day"..**
+- ⚡ Fun fact **I am born on "World Health Day"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
