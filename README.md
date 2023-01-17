@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sahilfaizal0704@gmail**
 
-- 📄 Know about my experiences [shorturl.at/puOT9](shorturl.at/puOT9)
+- 📄 Know about my experiences [https://rb.gy/palxnr](https://rb.gy/palxnr)
 
 - ⚡ Fun fact **I am born on "World Health Day"**
 
