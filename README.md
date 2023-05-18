@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Emotion Analysis Tool**
 
-- 🌱 I’m currently learning **Natural Language Processing and ML Mathematics**
+- 🌱 I’m currently learning **Natural Language Processing, Machine Learning and Web Development**
 
-- 👯 I’m looking to collaborate on **Computer Vision and Deep Learning**
+- 👯 I’m looking to collaborate on **Computer Vision, Biomedical Imaging and Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/dchftx](https://rb.gy/dchftx)
 
