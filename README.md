@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Faizal</h1>
-<h3 align="center">An aspiring AI Engineer from India</h3>
+<h3 align="center">Passionate Software Developer | Machine Learning and Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilfaizal01&label=Profile%20views&color=0e75b6&style=flat" alt="sahilfaizal01" /> </p>
 
