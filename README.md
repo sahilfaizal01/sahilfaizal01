@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sahil Faizal</h1>
-<h3 align="center">Passionate Software Developer | Machine Learning and Data Science Enthusiast</h3>
+<h3 align="center">Passionate Software Developer | Applied AI Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilfaizal01&label=Profile%20views&color=0e75b6&style=flat" alt="sahilfaizal01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilfaizal01" alt="sahilfaizal01" /></a> </p>
 
-- 🔭 I’m currently working on **Emotion Analysis Tool**
+- 🔭 I’m currently working as a **Computer Vision Researcher** at NYU Langone
 
 - 🌱 I’m currently learning **Natural Language Processing, Machine Learning and Web Development**
 
-- 👯 I’m looking to collaborate on **Computer Vision, Biomedical Imaging and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Computer Vision, Software Engineering, Data Science and Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/dchftx](https://rb.gy/dchftx)
 
