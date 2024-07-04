@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sahil Faizal</h1>
-<h3 align="center">Passionate Software Developer | Applied AI Researcher</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Applied Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilfaizal01&label=Profile%20views&color=0e75b6&style=flat" alt="sahilfaizal01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilfaizal01" alt="sahilfaizal01" /></a> </p>
 
-- 🔭 I’m currently working as a **Computer Vision Researcher** at NYU Langone
+- 🔭 I’m currently working as a **Computer Vision Intern** at Johnson and Johnson
 
-- 🌱 I’m currently learning **Natural Language Processing, Machine Learning and Web Development**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Computer Vision, Software Engineering, Data Science and Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/dchftx](https://rb.gy/dchftx)
 
-- 📝 You can find my portfolio site at [https://sahilai.engineer/](https://sahilai.engineer/)
+- 📝 You can find my portfolio site at [https://datascienceportfol.io/sahil01/](https://sahilai.engineer/)
 
-- 💬 Ask me about **Data Science, Artificial Intelligence and Computer Vision**
+- 💬 Ask me about **Data Science, Machine Learning and Computer Vision**
 
 - 📫 How to reach me **sahilfaizal0704@gmail**
 
 - 📄 Know about my experiences [https://rb.gy/palxnr](https://rb.gy/palxnr)
 
-- ⚡ Fun fact **I am born on "World Health Day"**
+- ⚡ Fun fact **I am born a cinephile and an explorer"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
