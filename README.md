@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/dchftx](https://rb.gy/dchftx)
 
-- 📝 You can find my portfolio site at [https://datascienceportfol.io/sahil01/](https://sahilai.engineer/)
+<!--- 📝 You can find my portfolio site at [https://datascienceportfol.io/sahil01/](https://sahilai.engineer/)--->
 
 - 💬 Ask me about **Data Science, Machine Learning and Computer Vision**
 
