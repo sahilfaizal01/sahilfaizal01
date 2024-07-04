@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Computer Vision, Software Engineering, Data Science and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Data Science, Software Engineering, and Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/dchftx](https://rb.gy/dchftx)
 
