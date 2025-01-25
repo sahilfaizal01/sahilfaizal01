@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahil Faizal</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Applied Researcher</h3>
+<h3 align="center">Software Engineer | Data Scientist | Machine Learning Engineer | Applied Researcher</h3>
+<h3 align="center">Prev. ML @ Johnson and Johnson, Samsung Research, IBM, A*STAR, NTU, NYU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilfaizal01&label=Profile%20views&color=0e75b6&style=flat" alt="sahilfaizal01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilfaizal01" alt="sahilfaizal01" /></a> </p>
 
-- 🔭 I’m currently working as a **Computer Vision Intern** at Johnson and Johnson
+- 🔭 I’m currently working as a **Technical Program Manager Intern** at AMD
 
 - 🌱 I’m currently learning **Generative AI**
 
